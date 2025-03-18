@@ -10,3 +10,4 @@ It was quit a challenging assignment. Thera are stil som issues: I don't underst
 Nathalie
 
 ## View it live
+https://github.com/nordiskastil/technigo-project-pizzabot.git
